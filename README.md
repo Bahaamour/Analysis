@@ -77,6 +77,31 @@ The conclusion was that higher educational attained states have relatively high 
 
 ![title](images/Average_used_car_price.png)
 
+## Technologies
+
+The following libraries were imported for our project:
+
+import pandas as pd
+import numpy as np 
+import seaborn as sns
+from pathlib import Path
+import hvplot.pandas
+import plotly.express as px
+import matplotlib.pyplot as plt
+import sqlalchemy
+
+## Contributors
+
+* Baha Amour
+
+* Vishal Puppala
+
+* Bethel Kameni
+
+* Marvin Lee
+
+* Ron Davis
+
 ## Sources for the data used in this project
 
 https://www.newyorkfed.org/microeconomics/databank.html
