@@ -81,14 +81,21 @@ The conclusion was that higher educational attained states have relatively high 
 
 The following libraries were imported for our project:
 
-import pandas as pd
-import numpy as np 
-import seaborn as sns
-from pathlib import Path
-import hvplot.pandas
-import plotly.express as px
-import matplotlib.pyplot as plt
-import sqlalchemy
+* import pandas as pd
+
+* import numpy as np 
+
+* import seaborn as sns
+
+* from pathlib import Path
+
+* import hvplot.pandas
+
+* import plotly.express as px
+
+* import matplotlib.pyplot as plt
+
+* import sqlalchemy
 
 ## Contributors
 
