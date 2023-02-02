@@ -38,31 +38,53 @@ The conclusion was that higher educational attained states have relatively high 
 
 ![title](images/kentucky.png)
 
-# Educational level of attainment in relation to household income
+##  Credit card debt per capita vs Median household income
 
-Our team chose to take a look at the ten states that were ranked both the highest and the lowest for educational attainment based on findings documented in 2008-2018. The ten states with the highest attainment were Colorado, Washington, D.C, Maryland, Connecticut, Massachusetts. The states with the lowest attainment were West Virginia, Arkansas, Mississippi, Kentucky, and Louisiana.
-
-For all of the states, we chose to break our analysis into several categories:
-
-
-** Credit card debt per capita vs Median household income
 * Higher educated states do have higher levels of income and higher levels of credit card debt per capita
+
 * The correlations between household incomes and credit card debt is relatively weak over a longer period of time across all states despite education level
+
 * Wrong to say that higher incomes lead to a higher percentage of credit card debt relative to income
+
 * Correlation does not imply causation.
+
 * From 2013-2018, there was a strong positive correlation but that’s just 6 years.
+
 * Despite the difference in education levels, there’s no clear-cut relationship between how income affects the level of credit card debt
-https://files.slack.com/files-pri/T045NDL74MR-F04MGCKENNS/download/marvin1.png?origin_team=T045NDL74MR
-https://files.slack.com/files-pri/T045NDL74MR-F04MNSX0WLB/marvin2.png
 
-** Correlation between the median household income and unemployment rate
+![title](images/marvin1.png)
+
+![title](images/marvin2.png)
+
+
+## Correlation between the median household income and unemployment rate
+
 * unemployment rates between 5 most educated and 5 least educated states are highly correlated and both seem pretty equally affected by the 2008 financial crisis
-* strong negative correlation (-0.7 /-0.8) between median household income and unemployment rate
-https://files.slack.com/files-pri/T045NDL74MR-F04N1KHJ5QR/bokeh_plot.png
-https://files.slack.com/files-pri/T045NDL74MR-F04M8ESN8F9/screenshot_2023-02-01_at_9.40.25_pm.png
-** Correlation between the average income level vs the average used car price per state
-* States with higher median income tend to lower use car prices and older model
-* we have some dispersion across  within each states as far the used car prices
-* State with lower median income tend to higher used car price and would go with newer model
-https://files.slack.com/files-pri/T045NDL74MR-F04MG9AECMC/image.png
 
+* strong negative correlation (-0.7 /-0.8) between median household income and unemployment rate
+
+![title](images/unemployment)
+
+![title](images/median)
+
+## Correlation between the average income level vs the average used car price per state
+
+* States with higher median income tend to havelower used car prices and older models
+
+* We have some dispersion across each states as far the used car prices
+
+* States with a lower median income tend to have higher used car prices and would go with newer model
+
+![title](images/average_used_car)
+
+## Sources for the data used in this project
+
+https://www.newyorkfed.org/microeconomics/databank.html
+
+https://www.kaggle.com/datasets/harikrishnareddyb/used-car-price-predictions
+
+https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/downloads/download-printable-files
+
+https://www.icip.iastate.edu/tables/employment/unemployment-states
+
+https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xls
