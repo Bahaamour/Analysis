@@ -63,9 +63,9 @@ The conclusion was that higher educational attained states have relatively high 
 
 * strong negative correlation (-0.7 /-0.8) between median household income and unemployment rate
 
-![title](images/unemployment)
+![title](images/unemployment.png)
 
-![title](images/median)
+![title](images/Median.png)
 
 ## Correlation between the average income level vs the average used car price per state
 
@@ -75,7 +75,7 @@ The conclusion was that higher educational attained states have relatively high 
 
 * States with a lower median income tend to have higher used car prices and would go with newer model
 
-![title](images/average_used_car)
+![title](images/Average_used_car_price.png)
 
 ## Sources for the data used in this project
 
