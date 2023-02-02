@@ -28,4 +28,12 @@ A correlation coefficient of 0.72823 between Median HouseHold Income 2008 and Pe
 ![title](images/bokeh_plot.png)
 
 
+## Correlation between educational level, median income, unemployment, and theft crimes
 
+The hypothesis that was started before analysis was done was that states with a lower educational have a higher incidence of theft crimes in correlation to their unemployment numbers.
+
+The conclusion was that higher educational attained states have relatively high incidents of theft in relation to their unemployment numbers. Most of the lower educated states did not, although some did.
+
+![title](images/colorado.png)
+
+![title](images/kentucky.png)
